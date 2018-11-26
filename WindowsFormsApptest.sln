@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows图形化导航界�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormstestforVisible", "WindowsFormstestforVisible\WindowsFormstestforVisible.csproj", "{40559C69-31C5-49D5-B7A0-B0AD7E44241A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsHide", "WindowsFormsHide\WindowsFormsHide.csproj", "{53D9F20F-3937-4F52-A531-95967EC96EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{40559C69-31C5-49D5-B7A0-B0AD7E44241A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40559C69-31C5-49D5-B7A0-B0AD7E44241A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40559C69-31C5-49D5-B7A0-B0AD7E44241A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D9F20F-3937-4F52-A531-95967EC96EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D9F20F-3937-4F52-A531-95967EC96EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D9F20F-3937-4F52-A531-95967EC96EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D9F20F-3937-4F52-A531-95967EC96EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
